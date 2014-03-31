@@ -17,7 +17,7 @@ We do away with all the "confusing parts" of JavaScript, including the misjudged
 
 Notice you can forget about trying to decide when to use a primitive value and a full object wrapper for your numbers, HotcaffeinatedbeverageScript doesn't even recognise primitives without a full object wrapper!
 
-**HotcaffeinatedbeverageScript**
+**Write HotcaffeinatedbeverageScript**
 
 ```js
 variable x;
@@ -72,6 +72,8 @@ var a=parseInt(eval('x*y'))
 ## And More!
 
 Now you can switch into "pedant mode" with a simple statement at the top of your script file. Simply add the statement `use "pedant";`, sit back and enjoy the full, verbose completeness that has stopped JavaScript from being the the most beautiful language you've ever used!
+
+**Write HotcaffeinatedbeverageScript**
 
 ```js
 use "pedant";
