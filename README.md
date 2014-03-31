@@ -13,11 +13,11 @@ At last! JavaScript without the confusing terseness!!!
 
 ## Declaring and Defining Variables
 
-**HotcaffeinatedbeverageScript**
-
 We do away with all the "confusing parts" of JavaScript, including the misjudged "comma operator" and the ability to both declare and define a variable in the same statement.
 
 Notice you can forget about trying to decide when to use a primitive value and a full object wrapper for your numbers, HotcaffeinatedbeverageScript doesn't even recognise primitives without a full object wrapper!
+
+**HotcaffeinatedbeverageScript**
 
 ```js
 variable x;
