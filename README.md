@@ -7,7 +7,8 @@ HotcaffeinatedbeverageScript
 
 HotcaffeinatedbeverageScript is a proposal for a new dialect of JavaScript. In fact our motto is, "It's just very verbose JavaScript." HotcaffeinatedbeverageScript is meant for those of us who find regular JavaScript too terse.
 
-For example, in JavaScript you write `var` for "variable" but cannot write `fun` for "function." How hours have you wasted trying to guess which keywords are shortened and which are not?HotcaffeinatedbeverageScript solves this problem by normalising this inconsistency away, so you can always write the most verbose form of any expression, all the time.
+For example, in JavaScript you write `var` for "variable" but cannot write `fun` for "function." How many hours have you wasted trying to guess which keywords are shortened and which are not?
+HotcaffeinatedbeverageScript solves this problem by normalising all the inconsistency away, so you can always write the most verbose form of any expression, all the time.
 
 At last! JavaScript without the confusing terseness!!!
 
