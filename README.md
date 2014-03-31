@@ -81,8 +81,10 @@ use "pedant";
 
 variable s;
 s = new String("beautiful");
+variable n;
+n = new Number(1);
 variable c;
-c = s.characterAtLocation(1);
+c = s.characterAtPosition(n);
 ```
 
 **Compiles to JavaScript**
