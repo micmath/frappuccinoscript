@@ -27,7 +27,7 @@ x = new Number(1);
 y = new Number(2);
 z = new Number(3);
 ```
-**=> JavaScript**
+**Compiles to JavaScript**
 ```js
 var x=1,y=2,z=3
 ```
@@ -86,5 +86,6 @@ c = s.characterAtLocation(1);
 ```js
 var c="beautiful".charAt(1)
 ```
+
 
 &copy; 1st April 2014, Michael J Mathews. All rights Reserved. 
