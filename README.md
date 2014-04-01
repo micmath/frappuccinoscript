@@ -16,7 +16,7 @@ At last! Someone fixed JavaScript; no more confusing terseness!!!
 
 We do away with all the "confusing parts" of JavaScript, including the famously misjudged "comma operator" and the ability to both declare and define a variable in the same statement.
 
-In addition, you can forget about trying to decide when to use a primitive value and when to use a full-on object wrapper for your numbers strings; FrappuccinoScript doesn't even recognise primitives without a full object wrapper!
+In addition, you can forget about trying to decide when to use a primitive value and when to use a full-on object wrapper for your numbers and strings; FrappuccinoScript doesn't even recognise primitives without a full object wrapper!
 
 **Write FrappuccinoScript**
 
@@ -33,7 +33,7 @@ z = new Number(3);
 var x = 1, y = 2, z = 3
 ```
 
-And look! Never sure when you should and shouldn't use semicolons or newlines, or...??? Not any longer. In FrappuccinoScript semicolons **and** newlines are _always_ required! It actually won't run any with other combination!
+And look! Never sure when you should and shouldn't use semicolons or newlines, or...??? Not any longer. In FrappuccinoScript semicolons **and** newlines are _always_ required! It actually won't run with any other combination!
 
 ## Built-In Mathematical Functions
 
